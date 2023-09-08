@@ -1,13 +1,16 @@
-### Descrição:
+## Descrição:
 
 Neste exercício seu objetivo é criar uma página web que exibe uma receita de um prato de sua escolha.
 
-Instruções:
+**Todas as alterações devem ser feitas nos arquivos já existentes**
 
-1. Crie um novo arquivo HTML e salve-o com um nome adequado, como <em>"receita.html"</em>.
-1. Use a tag `<html>` para definir o documento HTML.
-1. Use a tag `<head>` para incluir uma tag de título com o título da página de receita.
-1. Use a tag `<body>` para definir o corpo do seu documento.
+* `src/index.html` -> quando for necessário alterar HTML
+* `src/css/estilo.css` -> quando for necessário alterar CSS
+* `src/js/script.js` -> quando for necessário alterar JavaScript
+
+## Instruções:
+
+1. Altere o `<title>` para ficar condizente com a receita escolhida
 1. Use a tag `<h1>` para criar um título principal para a página de receita.
 1. Use a tag `<p>` para criar um parágrafo que apresenta a receita e descreve sua origem ou contexto cultural.
 1. Use a tag `<h2>` para criar um sub-título para a seção de ingredientes.
